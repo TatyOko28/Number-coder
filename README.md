@@ -37,8 +37,6 @@ npm install
 npm test
 ```
 
----
 
-## Автор
-[@yourusername](https://github.com/yourusername)
+
 
