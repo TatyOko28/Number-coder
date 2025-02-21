@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Production
+dist/
+
+# Testing
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.test
+
+# System Files
+.DS_Store
+Thumbs.db
